@@ -1,5 +1,5 @@
 # gerenciador-servlet
-A CRUD Project with a login system that receives http requisitions and simulates a databank. It's was made at Alura's servlet courses, as part of the Spring graduation , with the goal of teaching the MVC pattern and how the servlets work before engaging with higher abstractions. It can also return a list of the companies registered at the application in XML or JSON.
+A CRUD Project with a login system that receives HTTP requisitions and simulates a databank. It was made at Alura's servlet courses, as part of the Spring graduation , with the goal of teaching the MVC pattern and how the servlets work before engaging with higher abstractions. It can also return a list of the companies registered at the application in XML or JSON.
 
 #How to use it
 To use the application, one can download or clone the repository and run it on any IDE with server support or making it a .war and putting in a server like tomcat or jetty and start it through command line.
